@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m an AI Engineer student.<br>👯 I’m looking to collaborate on AI, python , Software Development,etc<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Bachelor of computer applications(BCA)<br>💬 Ask me about myself<br>⚡ Over 90% of the world’s data was generated in just the last two years<br>
+
+🎓 I'm an **AI Engineer in training** and a BCA student specializing in **Artificial Intelligence & Data Science**.  
+🤝 I love collaborating on **AI, Python, and Software Development projects**.  
+🌱 Currently diving deep into machine learning, full-stack dev, and data science tools.  
+💬 Ask me anything tech, AI, or meme-worthy.  
+⚡ **Mind-blowing fact**:  
+> 📊 *Over 90% of the world’s data was created in the last two years...*  
+> Yet less than 1% of it is actually analyzed. AI is changing that — and I want to be part of it.
 
 
 ## 🌐 Socials:
