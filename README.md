@@ -1,4 +1,7 @@
-<h1>🎓 I'm an AI Engineer in training and a BCA student specializing in Artificial Intelligence & Data Science. 🤝 I love collaborating on AI, Python, and Software Development projects. 🌱 Currently diving deep into machine learning, full-stack dev, and data science tools. 💬 Ask me anything tech, AI, or meme-worthy.</h1>
+<h1>🎓 I'm an AI Engineer in training and a BCA student specializing in Artificial Intelligence & Data Science.<br>
+<br>🤝 I love collaborating on AI, Python, and Software Development projects.<br>
+<br>🌱 Currently diving deep into machine learning, full-stack dev, and data science tools.<br>
+<br>💬 Ask me anything tech, AI, or meme-worthy.</h1><br>
 <p>AI Engineer and Software Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
