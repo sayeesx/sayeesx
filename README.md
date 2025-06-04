@@ -2,7 +2,7 @@
 <br>🤝 I love collaborating on AI, Python, and Software Development projects.<br>
 <br>🌱 Currently diving deep into machine learning, full-stack dev, and data science tools.<br>
 <br>💬 Ask me anything tech, AI, or meme-worthy.</h1><br>
-<p>AI Engineer and Software Developer</p>
+<h2>AI Engineer and Software Developer</h2>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
