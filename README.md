@@ -6,7 +6,7 @@
 💬 Ask me anything tech, AI, or meme-worthy.  
 ⚡ **Mind-blowing fact**:  
 > 📊 *Over 90% of the world’s data was created in the last two years...*  
-> Yet less than 1% of it is actually analyzed. AI is changing that — and I want to be part of it.
+> Yet less than 1% of it is actually analyzed. AI is changing that and I want to be part of it.
 
 
 ## 🌐 Socials:
