@@ -1,7 +1,7 @@
 <h2>🎓 I'm an AI Engineer in training and a BCA student specializing in Artificial Intelligence & Data Science.<br>
 <br>🤝 I love collaborating on AI, Python, and Software Development projects.<br>
 <br>🌱 Currently diving deep into machine learning, full-stack dev, and data science tools.<br>
-<br>💬 Ask me anything tech, AI, or meme-worthy.</br>
+<br>💬 Ask me anything tech, AI, or meme-worthy.<br>
 
     <h2>AI Engineer and Software Developer</h2>
 
