@@ -1,8 +1,7 @@
 Muhammed Sayees
 
 AI Engineer & Full-Stack Developer
-BCA in Artificial Intelligence & Data Science
-Experienced in ML, LLMs, RAG, and Mobile App Development
+Good in ML, LLMs, RAG, and Mobile App Development
 Always learning and building smarter systems
 
 ```mermaid
