@@ -5,6 +5,6 @@
 <p>Always learning and building smarter systems</p>
 
 <p>
-  <a target="_blank" href="https://sayees.vercel.app">Portfolio</a>
+  <a target="_blank" href="https://sayees.vercel.app">Portfolio // </a>
   <a target="_blank" href="https://twitter.com/sayeesck">Twitter</a>
 </p>
