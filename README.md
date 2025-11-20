@@ -6,7 +6,5 @@
 
 <p>
   <a target="_blank" href="https://sayees.vercel.app">Portfolio</a>
-</p>
-<p>
   <a target="_blank" href="https://twitter.com/sayeesck">Twitter</a>
 </p>
